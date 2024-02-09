@@ -1,0 +1,24 @@
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.title{
+    margin-bottom: 50px;
+}
+
+.board{
+
+    height: 500px;
+    width: 500px;
+    display: grid;
+}
+
+.buttons{
+    margin-top: 50px;
+}
